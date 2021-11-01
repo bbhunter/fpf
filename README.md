@@ -73,7 +73,7 @@ Finding `Open redirect` parameters using `redirect` pattern:
 ```
 $ fpf urls.waybackurls redirect
 ```
-Finding `Server side templet injection (SSTI)` parameters using `ssti` pattern:
+Finding `Server side template injection (SSTI)` parameters using `ssti` pattern:
 
 ```
 $ fpf urls.waybackurls ssti
