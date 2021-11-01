@@ -1,6 +1,7 @@
 <p align="center"><img src="https://github.com/whoamisec75/fpf/blob/main/static/fpf_logo.jpg"/></p>
 
 <h1 align="center">Fast Pattern Fetcher (fpf)</h1>
+<i><b><p align="center">Coded with <3 by HS Devansh Raghav</p></b></i>
 
 `Fast Pattern Fetcher`, Takes a URLs list and outputs the URLs which contains the parameters according to the specified pattern.
 
