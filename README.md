@@ -1,6 +1,16 @@
 # fpf
 `Fast Pattern Fetcher`, Takes a URLs list and outputs the URLs which contains the parameters according to the specified pattern.
 
+## Installation
+
+```
+$ git clone https://github.com/whoamisec75/fpf.git
+$ cd fpf
+$ sudo python3 setup.py install
+$ fpf -h
+```
+Before running these commands make sure that you have python3 and setuptools installed. 
+
 ## Usage
 
 You can use this tool like this:
