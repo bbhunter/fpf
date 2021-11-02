@@ -5,6 +5,21 @@
 
 `Fast Pattern Fetcher`, Takes a URLs list and outputs the URLs which contains the parameters according to the specified pattern.
 
+* fpf/
+  * main.py
+  * init.py
+  * scripts/
+    * init.py
+    * fetcher.py
+    * colors.py
+    * args.py
+  * db/
+    * db.py
+    * init.py 
+* setup.py
+* LICENCE
+* README.md
+
 ## Installation
 
 ```
