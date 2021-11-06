@@ -5,20 +5,23 @@
 
 `Fast Pattern Fetcher`, Takes a URLs list and outputs the URLs which contains the parameters according to the specified pattern.
 
-* fpf/
-  * main.py
-  * init.py
-  * scripts/
-    * init.py
-    * fetcher.py
-    * colors.py
-    * args.py
-  * db/
-    * db.py
-    * init.py 
-* setup.py
-* LICENCE
-* README.md
+* fpf/ <= ***Folder***
+  * main.py <= ***It's a file that calls all the functions and runs the fetcher with threads.*** 
+  * init.py <= ***Common file.***
+  * scripts/ <= ***Folder.***
+    * init.py <= ***Common file.***
+    * fetcher.py <= ***Matches the URL parameters to db/db.py parameters.*** 
+    * colors.py <= ***Colors and Style.***
+    * args.py <= ***Arguments for this tool.***
+  * db/ <= ***Folder***
+    * db.py <= ***This file contains list of parameters.*** 
+    * init.py <= ***Common file.***
+  * static/ <= ***Folder***
+    * fpf_logo.jpg <= ***Logo.***
+* .gitignore <= ***.gitingnore file for python.***
+* setup.py <= ***setup file for this tool.***
+* LICENCE <= ***MIT licence***
+* README.md <= ***Tool discription, installation, usage etc.***
 
 ## Installation
 
