@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name = "fpf",
-    version = "1.0",
+    version = "1.1",
     author = "Devansh Raghav",
     author_email = "whoamisec75@gmail.com",
     license = "MIT",
